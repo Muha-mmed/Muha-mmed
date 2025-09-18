@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Muha-mmed
-- 👀 I’m interested in backend development and mobile app development
-- 🌱 I’m currently learning django,fastapi, flutter and javascript
-- 💞️ I’m looking to collaborate on python and flutter projects
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i've no team
+# 👋 Hi, I’m @Muha-mmed
 
+- 👀 **Interests:** Backend development  
+- 🌱 **Currently learning:** Java, Spring Boot, FastAPI, and JavaScript  
+- 💞️ **Looking to collaborate on:** Python and Java projects  
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/muhd8)  
+- 👨 **Pronouns:** He/Him  
+- 😄 **Fun fact:** I don’t have a team (yet 😉)  
